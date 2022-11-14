@@ -1,2 +1,2 @@
 # recAsal
-Recursive metotla asal sayı programı (www.patika.dev)
+Recursive metotla asal sayı program
